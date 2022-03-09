@@ -1,2 +1,2 @@
 # Thermodynamics
-Computational Modules for Teaching Thermodynamics
+Jupyter Notebooks for Teaching Materials Thermodynamics
