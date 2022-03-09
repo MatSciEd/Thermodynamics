@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to Materials Thermodynamics
 
-You can use the [editor on GitHub](https://github.com/MatSciEd/Thermodynamics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page provides a collection of Jupyter Notebooks to illustrate fundamental thermodynamics concepts. Please feel free to use them to learn about these topics or in your teaching. Feedback or corrections are welcome.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Topics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatSciEd/Thermodynamics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Construction of Unary Phase Diagrams using the Clausius Clapeyron Relation
+2. Construction of Binary Phase Diagrams from Gibbs Free Energy Curves
+3. The Phase Transformation of Spinodal Decomposition
+4. Thermodynamics of Chemical Reactions
